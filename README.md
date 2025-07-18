@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-##DESCRIPTION OF THE PROJECT
+# DESCRIPTION OF THE PROJECT
 
 This project is all about building a simple and effective tool that can automatically summarize long pieces of text. It uses a powerful, pre-trained language model called `t5-small` from Hugging Face’s Transformers library. This model was originally created by Google as part of their T5 (Text-To-Text Transfer Transformer) framework, which treats every language task—like translation, summarization, or answering questions—as a text-in, text-out problem.
 
